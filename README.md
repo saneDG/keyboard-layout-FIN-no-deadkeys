@@ -16,7 +16,7 @@ A modified Finnish/Nordic macOS keyboard layout with easier access to backticks,
  1. Download the repository as a ZIP and extract it, or clone the repository:
 
     ```bash
-      git clone <repository-url>
+      git clone git@github.com:saneDG/keyboard-layout-FIN-no-deadkeys.git
     ```
 
  2. Copy FIN No Deadkeys.bundle to the system-wide Keyboard Layouts folder:
