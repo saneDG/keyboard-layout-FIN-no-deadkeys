@@ -25,20 +25,22 @@ A modified Finnish/Nordic macOS keyboard layout with easier access to backticks,
       /Library/Keyboard Layouts/
     ```
 
-    Do not place it in ~/Library/Keyboard Layouts/.
-
     Using Terminal:
 
     ```bash
       sudo cp -R "FIN No Deadkeys.bundle" "/Library/Keyboard Layouts/"
     ```
 
- 3. Log out of macOS and log back in.
+> [!IMPORTANT]
+> Do not place the bundle it in user home directory `~/Library/Keyboard Layouts/` or `/Users/your-username/Library/Keyboard Layouts/`.
+> Use exact system-wide `/Library/Keyboard Layouts/` path, without `~`!
 
- 4. Open:
+ 4. Log out of macOS and log back in.
+
+ 5. Open:
 
     System Settings → Keyboard → Text Input → Edit
 
- 5. Click +, find FIN No Deadkeys, and add it.
+ 6. Click +, find FIN No Deadkeys, and add it.
 
- 6. Select FIN No Deadkeys from the input menu in the macOS menu bar.
+ 7. Select FIN No Deadkeys from the input menu in the macOS menu bar.
