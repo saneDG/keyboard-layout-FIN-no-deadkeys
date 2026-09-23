@@ -10,8 +10,16 @@
 <!--Last edited by Ukelele version 457 on 2026-08-19 at 14:49 (GMT+3)-->
 <keyboard group="126" id="-21846" name="FIN No Deadkeys" maxout="1">
     <layouts>
-        <layout first="0" last="0" mapSet="154" modifiers="4c"/>
-        <layout first="1" last="1" mapSet="96c" modifiers="4c"/>
+        <layout first="0" last="17" mapSet="154" modifiers="4c"/>
+        <layout first="18" last="18" mapSet="96c" modifiers="4c"/>
+        <layout first="21" last="23" mapSet="96c" modifiers="4c"/>
+        <layout first="30" last="30" mapSet="96c" modifiers="4c"/>
+        <layout first="33" last="33" mapSet="96c" modifiers="4c"/>
+        <layout first="36" last="36" mapSet="96c" modifiers="4c"/>
+        <layout first="194" last="194" mapSet="96c" modifiers="4c"/>
+        <layout first="197" last="197" mapSet="96c" modifiers="4c"/>
+        <layout first="200" last="201" mapSet="96c" modifiers="4c"/>
+        <layout first="206" last="207" mapSet="96c" modifiers="4c"/>
     </layouts>
     <modifierMap id="4c" defaultIndex="0">
         <keyMapSelect mapIndex="0">
@@ -954,16 +962,16 @@
             <key code="21" output="¢"/>
         </keyMap>
         <keyMap index="4" baseMapSet="154" baseIndex="4">
-            <key code="512" output=""/>
+            <key code="0" output="◊"/>
         </keyMap>
         <keyMap index="5" baseMapSet="154" baseIndex="5">
             <key code="21" output="¢"/>
         </keyMap>
         <keyMap index="6" baseMapSet="154" baseIndex="6">
-            <key code="512" output=""/>
+            <key code="0" output=""/>
         </keyMap>
         <keyMap index="7" baseMapSet="154" baseIndex="7">
-            <key code="512" output=""/>
+            <key code="0" output="&#x0001;"/>
         </keyMap>
     </keyMapSet>
     <actions>

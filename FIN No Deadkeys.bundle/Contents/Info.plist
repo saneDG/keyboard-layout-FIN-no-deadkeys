@@ -3,11 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>io.github.saneDG.fin-no-deadkeys</string>
+	<string>org.sil.ukelele.keyboardlayout.finnodeadkeys</string>
 	<key>CFBundleName</key>
 	<string>FINNODEADKEYS2</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0</string>
 	<key>CFBundleVersion</key>
-	<string></string>
+	<string>2.0</string>
 	<key>KLInfo_FIN No Deadkeys</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
@@ -15,7 +17,7 @@
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>io.github.saneDG.fin-no-deadkeys.finnodeadkeys</string>
+		<string>org.sil.ukelele.keyboardlayout.finnodeadkeys.finnodeadkeys</string>
 		<key>TISIntendedLanguage</key>
 		<string>fi</string>
 	</dict>
